@@ -39,3 +39,7 @@ function efectoHabilidades(){
 window.onscroll = function(){
     efectoHabilidades();
 } 
+
+function descargarCV() {
+    window.open("img/CVPracticasBrazales.pdf","_blank");
+}
